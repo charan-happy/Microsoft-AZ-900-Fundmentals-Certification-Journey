@@ -1,5 +1,9 @@
 # Microsoft-AZ-900-Fundmentals-Certification-Journey
 
+**Exam Attempted** : 27/2/2025 **Results** : PASS
+
+[My Results](https://learn.microsoft.com/api/credentials/share/en-us/GudiyathamNagacharan-9798/C042E62CFA3BDC1A?sharingId=75E5B4FCD5699429)
+
 # Microsoft Azure 900 Syllabus
 
 ## Describe Cloud Concepts (20-25%)
@@ -200,3 +204,12 @@
 - Application Insights, an Azure Monitor feature, monitors your web application. Application Insights is capable of monitoring applications that are running in Azure, on-premises, or in a different cloud environment.
 - There are 2 ways to configure Application Insights to help monitor your application. You can either install an SDK in your application or you can use the Application Insights agent. The agent is supported in C#.NET, VB.NET, Java, JavaScript, Node.js, and Python.
 - Application Insights not only helps you monitor the performance of your application, but you can also configure it to periodically send synthetic requests to your application, allowing you to check the status and monitor your application even during periods of low activity.
+
+
+Note : It is just some part of my preparation, if you follow just this repo content for sure you will not able to pass the exam. Other references i used for my preparation are :
+
+- FYI : i didn't completed single resource completely. I studied in all of them though
+
+1. [Microsoft learn (if you read 2 times with understanding More than enough to clear the exam )](https://learn.microsoft.com/en-us/training/azure/)
+2. [Freecodecamp course by andrew brown on youtube](https://youtu.be/5abffC-K40c?si=W8LPLzLSjSYRT8d3)
+3. [Exam Topics](https://www.examtopics.com/exams/microsoft/az-900/)
